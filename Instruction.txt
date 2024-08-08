@@ -1,0 +1,8 @@
+To run this program----
+
+    step 1 go to environment.ts file
+    step 2 change firebase config.
+    step 3 type "ng serve" in cmd prompt.
+
+email - Aman@gmail.com
+password - Aman123
